@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pCam1lo
 - 👀 I’m interested in Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on computer science proyects
+- 💞️ I’m looking to collaborate on computer science projects
 - 📫 How to reach me juan2191322@correo.uis.edu.co
 
 <!---
